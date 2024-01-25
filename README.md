@@ -21,3 +21,8 @@ This script is a basic Selenium WebDriver test written in Python using the unitt
 - `locator.py`: Defines locators for elements on the pages.
 
 Feel free to explore the code, add comments, and customize it to fit your needs. Enjoy experimenting with Selenium and automated testing!
+
+## Expected Results
+Ran 1 test in 5.448s
+
+OK
